@@ -1,0 +1,10 @@
+# ninja log v5
+53	14378	7924316646245680	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	856184713b382b10
+68	14409	7924316646498505	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	52df9e2b77892c93
+15	14424	7924316646684941	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a7b0e5746aaa8288
+99	14432	7924316646808237	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5e499108cb5262
+1	14474	7924316647278409	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	7a5465a8f14e5d5b
+40	14681	7924316649356425	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e1a899cb721ccc69
+28	14748	7924316650049858	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	34260e72032db47b
+83	15035	7924316652973764	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8bcf9e1dee96fef4
+15036	15277	7924316655419615	C:/Users/Wei En/Documents/Unity Worlds/Pokemon_AR_Final/Library/PramData/AndroidApplicationController/Cache/com.unity.template.ar_mobile/gradle-project/unityLibrary/build/intermediates/cxx/Debug/1iqy5d68/obj/arm64-v8a/libgame.so	cb41579d57f552d1

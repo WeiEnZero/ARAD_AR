@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\unity worlds\\pokemon_ar_final\\assets\\mobileartemplateassets\\scripts\\positionalsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\scripts\\positionalsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\assets\\mobileartemplateassets\\scripts\\abuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\scripts\\abuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\assets\\mobileartemplateassets\\scripts\\prefabautoswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\scripts\\prefabautoswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\assets\\mobileartemplateassets\\scripts\\prefabcreatorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287B7BE-EA4C-90FE-8D29-970C4E2A4707}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\scripts\\prefabcreatorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrefabCreatorScript.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\PrefabCreatorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\Scripts\\PrefabCreatorScript.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\PrefabCreatorScript.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\Scripts\\PrefabCreatorScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:18:43.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrefabAutoSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\PrefabAutoSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\Scripts\\PrefabAutoSwitch.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\PrefabAutoSwitch.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\Scripts\\PrefabAutoSwitch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:18:53.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AButtonSound.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\AButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\Scripts\\AButtonSound.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\AButtonSound.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\Scripts\\AButtonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:51:52.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositionalSound.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\PositionalSound.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\Scripts\\PositionalSound.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\Pokemon_AR_Final\\Assets\\MobileARTemplateAssets\\Scripts\\PositionalSound.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\Scripts\\PositionalSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:07:48.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

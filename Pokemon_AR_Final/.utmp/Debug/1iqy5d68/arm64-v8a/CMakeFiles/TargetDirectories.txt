@@ -1,0 +1,5 @@
+C:/Users/Wei En/Documents/Unity Worlds/Pokemon_AR_Final/.utmp/Debug/1iqy5d68/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Wei En/Documents/Unity Worlds/Pokemon_AR_Final/.utmp/Debug/1iqy5d68/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Wei En/Documents/Unity Worlds/Pokemon_AR_Final/.utmp/Debug/1iqy5d68/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Wei En/Documents/Unity Worlds/Pokemon_AR_Final/.utmp/Debug/1iqy5d68/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Wei En/Documents/Unity Worlds/Pokemon_AR_Final/.utmp/Debug/1iqy5d68/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

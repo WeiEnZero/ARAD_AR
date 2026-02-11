@@ -1,0 +1,18 @@
+{
+  "imagePath": "image-targets/WhatsApp Image 2025-11-05 at 12.09.02_07add5f2_target.jpeg",
+  "name": "WhatsApp Image 2025-11-05 at 12.09.02_07add5f2",
+  "type": "PLANAR",
+  "properties": {
+    "top": 175,
+    "left": 0,
+    "width": 1125,
+    "height": 1500,
+    "isRotated": false,
+    "originalWidth": 1125,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1764051707500,
+  "updated": 1764051776109
+}
